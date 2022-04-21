@@ -30,3 +30,11 @@ In the present repository you will find the following material:
   <br>
   <br>
   Add here link for ArXiv preprint
+<br>
+  <br>
+  <br>
+    <br>
+  <br>
+    
+    
+![multi_dimensional_BS](https://user-images.githubusercontent.com/58938961/164503914-29352ed2-69f8-4d7a-97c4-5847b32d7140.png)
