@@ -5,8 +5,8 @@ In the present repository you will find the following material:
 <div class="about">
                 <h2 style="color:#06386D"><b>Calibration to time-series data</b></h2>
   <ul>
-<li>Code for a Heston model, when learning the price dynamics.</li><br>
-<li>Code for a SABR-type model, when learning the volatility of the price dynamics.</li><br>
+<li>Code for a Heston model, when learning the price dynamics. (Stoch_vol_regressionPrice_Heston.py)</li><br>
+<li>Code for a SABR-type model, when learning the volatility of the price dynamics. (Stoch_vol_regressionQV_SABR.py)</li><br>
   </ul>
   </div>
   Details of the calibration to time-series data with signature-based model can be found in Section 4.1 of the paper.
