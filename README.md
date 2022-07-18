@@ -23,7 +23,7 @@ In the present repository you will find the following material.
     <div class="about">
                 <h2 style="color:#06386D"><b>Joint calibration to time-series data and option prices</b></h2>
   <ul>
-<li>Code for a Heston model with time-varying parameters. (Joint-Calibration.ipynb)</li><br>
+<li>Code for a Heston model with constant parameters. (Joint_Calibration.py)</li><br>
   </ul>
   </div>
   A brief discussion concerning the joint calibration problem can be found in Section 4.3 of the paper.
