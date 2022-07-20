@@ -1,6 +1,18 @@
 # sigsde_calibration
 
-This is a collection of Jupyter notebooks and Python files which have been used in the article "Signature-based models: theory and calibration" of Christa Cuchiero, Guido Gazzani and Sara Svaluto-Ferro. (add link)
+This is a collection of Jupyter notebooks and Python files which have been used in the article:<br><br>
+"Signature-based models: theory and calibration"<br><br>
+of <a href ="https://www.mat.univie.ac.at/~cuchiero/">Christa Cuchiero</a>, <a href ="https://homepage.univie.ac.at/guido.gazzani/">Guido Gazzani</a> and <a href ="https://sites.google.com/view/sarasvaluto-ferro">Sara Svaluto-Ferro</a>.
+
+
+For citations:\
+**MDPI and ACS Style**\
+Cuchiero, C.; Gazzani, G.; Svaluto-Ferro, S. Signature-based models: theory and calibration.
+```
+@Article{toadd}.
+```
+
+
 In the present repository you will find the following material.
 <div class="about">
                 <h2 style="color:#06386D"><b>Calibration to time-series data</b></h2>
