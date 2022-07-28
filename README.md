@@ -1,7 +1,7 @@
 # sigsde_calibration
 
-This is a collection of Jupyter notebooks and Python files which have been used in the article:<br><br>
-"Signature-based models: theory and calibration"<br><br>
+This is a collection of Jupyter notebooks and Python files which have been used in the article:<br><br> <a href="https://arxiv.org/pdf/2207.13136.pdf">
+"Signature-based models: theory and calibration"</a> <br><br>
 of <a href ="https://www.mat.univie.ac.at/~cuchiero/">Christa Cuchiero</a>, <a href ="https://homepage.univie.ac.at/guido.gazzani/">Guido Gazzani</a> and <a href ="https://sites.google.com/view/sarasvaluto-ferro">Sara Svaluto-Ferro</a>.
 
 
@@ -9,7 +9,11 @@ For citations:\
 **MDPI and ACS Style**\
 Cuchiero, C.; Gazzani, G.; Svaluto-Ferro, S. Signature-based models: theory and calibration.
 ```
-@Article{toadd}.
+@article{CGS:22,
+      title={{Signature-based models: theory and calibration}}, 
+      author={Cuchiero, C. and Gazzani, G. and Svaluto-Ferro S.},
+      journal={Preprint arXiv:2207.13136},
+      year={2022}}
 ```
 
 
